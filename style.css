@@ -39,5 +39,17 @@
 }
 
 .status {
-  flex: 3;
+  flex: 4;
+}
+
+.game {
+  font-weight: bold;
+}
+
+.game-status {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
 }

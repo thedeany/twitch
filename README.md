@@ -1,5 +1,5 @@
 # FreeCodeCamp Twitch.tv API Project
-My attempt at the Twitch.tv API project in FreeCodeCamp's front-end intermediate projects
+My attempt at the Twitch.tv API project in FreeCodeCamp's front-end intermediate projects. See it live at https://thedeany.github.io/twitch/.
 
 ## Notes
 * Uses [Skeleton CSS](http://getskeleton.com) for basic styles
